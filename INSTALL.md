@@ -123,6 +123,16 @@ Eza is available as the [eza](https://packages.fedoraproject.org/pkgs/rust-eza/e
 sudo dnf install eza
 ```
 
+### Red Hat Linux
+
+[![Red Hat Linux](https://repology.org/badge/version-for-repo/fedora_39/rust:eza.svg)](https://repology.org/project/eza/versions)
+
+Eza is available as the [eza](https://src.fedoraproject.org/rpms/rust-eza) package in the official Red Hat Fedora repository.
+
+```bash
+sudo yum install eza -y
+```
+
 ### Void Linux
 
 [![Void Linux package](https://repology.org/badge/version-for-repo/void_x86_64/eza.svg)](https://repology.org/project/eza/versions)
